@@ -1,10 +1,10 @@
 import pandas as pd
 import requests
 import time
+from datetime import date
 
 df_pedidos = pd.read_csv("./data/Pedido.csv")
 df_pedidos["fecha_pedido"] = pd.to_datetime(df_pedidos["fecha_pedido"]).dt.date
-df_ciudades_fechas = df_pedidos[["ciudad_pedido", "fecha_pedido"]].dropna().drop_duplicates()
 
 def obtener_coordenadas(ciudad):
     try:
@@ -15,7 +15,7 @@ def obtener_coordenadas(ciudad):
         if data:
             return float(data[0]["lat"]), float(data[0]["lon"])
     except:
-        return None, None
+        pass
     return None, None
 
 def obtener_clima(lat, lon, fecha):
@@ -31,9 +31,6 @@ def obtener_clima(lat, lon, fecha):
         data = r.json()
         if "daily" in data and "temperature_2m_max" in data["daily"]:
             return {
-                "fecha": fecha,
-                "lat": lat,
-                "lon": lon,
                 "temp_max": data["daily"]["temperature_2m_max"][0],
                 "temp_min": data["daily"]["temperature_2m_min"][0],
                 "precipitacion": data["daily"]["precipitation_sum"][0],
@@ -42,28 +39,62 @@ def obtener_clima(lat, lon, fecha):
         return None
     return None
 
-# Extraer clima por ciudad y fecha
+cache_coord = {}
 registros = []
-for _, fila in df_ciudades_fechas.iterrows():
+
+for _, fila in df_pedidos.iterrows():
+    pedido_id = fila["pedido_id"]
     ciudad = fila["ciudad_pedido"]
     fecha = fila["fecha_pedido"]
 
-    lat, lon = obtener_coordenadas(ciudad)
-    if lat is None:
-        print(f"❌ No se encontraron coordenadas para: {ciudad}")
-        continue
-
-    print(f"🌍 {ciudad} ({lat}, {lon}) - {fecha}")
-    clima = obtener_clima(lat, lon, fecha)
-    if clima:
-        clima["ciudad"] = ciudad
-        registros.append(clima)
+    if ciudad not in cache_coord:
+        lat, lon = obtener_coordenadas(ciudad)
+        if lat is None:
+            print(f"❌ No se encontraron coordenadas para: {ciudad}. Usando Bogotá.")
+            ciudad = "Bogotá"
+            lat, lon = obtener_coordenadas(ciudad)
+        cache_coord[ciudad] = (lat, lon)
     else:
-        print(f"⚠️ Clima no disponible para {ciudad} el {fecha}")
+        lat, lon = cache_coord[ciudad]
 
-    time.sleep(1)  # evitar rate limit de Nominatim y Open-Meteo
+    print(f"📦 Pedido {pedido_id} - {ciudad} ({lat}, {lon}) - {fecha}")
+    clima = obtener_clima(lat, lon, fecha)
 
-# Guardar resultados
+    if not clima:
+        print(f"⚠️ Clima no disponible para {ciudad} el {fecha}. Intentando con clima actual...")
+        clima = obtener_clima(lat, lon, date.today())
+        if clima:
+            clima["nota"] = "clima_actual_usado"
+            print(f"✅ Clima encontrado para {ciudad} el {date.today()} (clima actual)")
+        else:
+            print(f"🚫 Clima actual tampoco disponible para {ciudad}. Usando Medellín.")
+            ciudad = "Medellín"
+            if ciudad not in cache_coord:
+                lat, lon = obtener_coordenadas(ciudad)
+                cache_coord[ciudad] = (lat, lon)
+            else:
+                lat, lon = cache_coord[ciudad]
+            clima = obtener_clima(lat, lon, date.today())
+            if clima:
+                clima["nota"] = "clima_medellin_actual"
+                print(f"✅ Clima encontrado para Medellín el {date.today()} (reemplazo final)")
+    else:
+        print(f"✅ Clima encontrado para {ciudad} el {fecha}")
+
+    if clima:
+        registros.append({
+            "pedido_id": pedido_id,
+            "ciudad": ciudad,
+            "fecha": fecha,
+            "lat": lat,
+            "lon": lon,
+            **clima
+        })
+
+    time.sleep(1)
+
 df_clima = pd.DataFrame(registros)
-df_clima.to_csv("./data/clima.csv", index=False)
-print("✅ Clima histórico guardado en ./data/clima.csv")
+df_clima.insert(0, "id", range(1, len(df_clima) + 1))
+
+df_clima.to_csv("./data/climapedido.csv", index=False)
+print("✅ Archivo guardado como ./data/climapedido.csv")
