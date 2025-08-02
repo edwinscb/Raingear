@@ -1,0 +1,1001 @@
+pedido_id,cliente_id,fecha_pedido,estado_pedido,total_pedido,metodo_pago,ciudad_pedido
+1,400,12/12/2024,En Proceso,2373453,Tarjeta de Crédito,Fengqiao
+2,480,5/18/2024,En Proceso,1979191,Efectivo,Boronów
+3,246,7/6/2024,Pendiente,3157416,Tarjeta de Débito,Phoenix
+4,164,5/2/2024,Entregado,2026493,Tarjeta de Crédito,Kilcullen
+5,459,1/4/2024,Pendiente,933211,Tarjeta de Crédito,Liwan
+6,196,3/8/2024,Entregado,2081715,Tarjeta de Débito,Pedra Branca
+7,157,8/12/2024,En Proceso,1438906,Tarjeta de Crédito,Le Port
+8,338,6/3/2024,En Proceso,3093932,Tarjeta de Débito,Koesan
+9,430,6/26/2024,Pendiente,3289231,Tarjeta de Débito,Bouaké
+10,188,4/12/2024,Entregado,472938,Transferencia Bancaria,Umeå
+11,494,6/25/2024,En Proceso,2570424,Transferencia Bancaria,Sampués
+12,124,5/7/2024,Pendiente,1035286,Tarjeta de Crédito,Puconci
+13,271,11/28/2024,Pendiente,2209977,Tarjeta de Crédito,Muchkapskiy
+14,118,12/10/2024,Entregado,1139224,Transferencia Bancaria,Mangochi
+15,3,6/6/2024,Cancelado,3911076,Tarjeta de Crédito,Hobonio
+16,149,5/12/2024,En Proceso,3474794,Tarjeta de Crédito,Saint-Rémy-de-Provence
+17,140,9/13/2024,Cancelado,427513,Transferencia Bancaria,Schiltigheim
+18,205,7/7/2024,Entregado,2469391,Transferencia Bancaria,Perdões
+19,325,5/18/2024,Cancelado,2880919,Efectivo,Malinaw
+20,404,1/29/2024,Cancelado,3622798,Efectivo,Lianhe
+21,237,5/14/2024,Entregado,3251548,Tarjeta de Crédito,Ar Rawnah
+22,353,11/14/2024,Entregado,549999,Tarjeta de Débito,Barrio San Luis
+23,307,6/16/2024,Pendiente,3942689,Tarjeta de Crédito,Ginowan
+24,29,3/8/2024,Pendiente,391363,Transferencia Bancaria,Forestville
+25,123,3/7/2024,Pendiente,811847,Tarjeta de Débito,Toutuo
+26,499,12/3/2024,Pendiente,691168,Transferencia Bancaria,Lykóvrysi
+27,59,10/2/2024,Entregado,399064,Tarjeta de Débito,Corinto
+28,367,4/19/2024,Entregado,2074711,Tarjeta de Débito,Furongqiao
+29,180,2/11/2024,En Proceso,1059923,Efectivo,Semenivka
+30,355,12/4/2024,Pendiente,1589388,Transferencia Bancaria,Nouvelle France
+31,480,6/11/2024,Entregado,2560413,Transferencia Bancaria,Waingapu
+32,281,2/6/2024,Entregado,889418,Tarjeta de Débito,Topeka
+33,474,8/29/2024,Cancelado,772026,Efectivo,Chongmin
+34,311,2/11/2024,En Proceso,2509566,Efectivo,Bayt Liqyā
+35,246,10/10/2024,Pendiente,699994,Transferencia Bancaria,Huagang
+36,191,7/24/2024,En Proceso,1874962,Efectivo,Linköping
+37,484,2/11/2024,Cancelado,976614,Efectivo,Jasieniec
+38,2,6/1/2024,Pendiente,2763602,Tarjeta de Crédito,Pederneiras
+39,141,7/1/2024,Entregado,567762,Tarjeta de Crédito,Libu
+40,405,4/21/2024,Cancelado,830942,Tarjeta de Crédito,Jambangan
+41,52,3/15/2024,Cancelado,3526108,Efectivo,Leskolovo
+42,239,8/13/2024,Pendiente,1126761,Efectivo,Kitakami
+43,2,12/10/2024,En Proceso,3736660,Efectivo,Layu
+44,310,3/15/2024,Cancelado,3469583,Tarjeta de Débito,Rudong
+45,33,9/2/2024,En Proceso,3467638,Tarjeta de Débito,Muarasiau
+46,486,6/21/2024,En Proceso,3937588,Efectivo,Xin’an
+47,397,2/18/2024,En Proceso,2189374,Tarjeta de Crédito,Lens
+48,78,10/1/2024,Entregado,1580287,Tarjeta de Débito,Holboo
+49,341,3/21/2024,En Proceso,2779724,Tarjeta de Débito,Lianhua
+50,145,11/6/2024,En Proceso,122337,Transferencia Bancaria,Tayirove
+51,360,3/28/2024,Cancelado,1923098,Transferencia Bancaria,Venëv
+52,133,2/25/2024,Cancelado,189988,Transferencia Bancaria,Ocampo
+53,380,5/9/2024,Cancelado,3480829,Tarjeta de Débito,Skhirat
+54,398,10/17/2024,Pendiente,244415,Transferencia Bancaria,Xomong
+55,45,6/3/2024,Entregado,901924,Transferencia Bancaria,Mataya
+56,61,3/17/2024,Entregado,2486807,Transferencia Bancaria,Sanhe
+57,270,4/1/2024,En Proceso,1404898,Tarjeta de Débito,Chitral
+58,332,2/4/2024,En Proceso,2916856,Transferencia Bancaria,Nakhon Pathom
+59,298,4/19/2024,Pendiente,523127,Tarjeta de Crédito,São Bernardo do Campo
+60,92,9/17/2024,Cancelado,3516994,Tarjeta de Débito,Yangkou
+61,121,12/18/2024,Cancelado,3183984,Transferencia Bancaria,Lenger
+62,267,4/16/2024,Cancelado,2009779,Tarjeta de Débito,Igarapé Miri
+63,472,4/9/2024,Entregado,3190295,Tarjeta de Crédito,Pichilemu
+64,463,2/29/2024,En Proceso,2219047,Transferencia Bancaria,Badou
+65,439,1/9/2024,Pendiente,380583,Efectivo,Semuda
+66,467,3/23/2024,En Proceso,3897273,Tarjeta de Débito,Şafāshahr
+67,106,8/21/2024,Pendiente,3240153,Tarjeta de Crédito,Nankeng
+68,15,7/19/2024,Entregado,1419674,Efectivo,Buchanan
+69,386,8/25/2024,Cancelado,1926067,Efectivo,Tambilil
+70,357,6/18/2024,Pendiente,1131492,Transferencia Bancaria,Toshbuloq
+71,207,2/22/2024,Entregado,2861382,Efectivo,General Santos
+72,418,6/10/2024,En Proceso,590744,Transferencia Bancaria,Granville
+73,26,6/22/2024,Cancelado,3404774,Tarjeta de Débito,Grenoble
+74,31,2/15/2024,En Proceso,1211277,Tarjeta de Débito,Hlybokaye
+75,287,4/5/2024,Pendiente,2044487,Transferencia Bancaria,Nicasio
+76,45,3/24/2024,Pendiente,1170704,Tarjeta de Crédito,Henghe
+77,194,9/23/2024,Cancelado,3617352,Tarjeta de Débito,Qiansuo
+78,414,1/23/2024,Pendiente,1314894,Tarjeta de Crédito,Panyarang
+79,454,2/7/2024,En Proceso,552085,Transferencia Bancaria,Kavajë
+80,415,12/9/2024,Entregado,2039351,Tarjeta de Débito,Hatogaya-honchō
+81,53,1/27/2024,Pendiente,3066400,Tarjeta de Débito,Hagonoy
+82,500,5/12/2024,Cancelado,3138524,Tarjeta de Débito,Estreito Câmara de Lobos
+83,158,12/8/2024,Cancelado,2104020,Tarjeta de Débito,Purac
+84,225,9/6/2024,Cancelado,401587,Transferencia Bancaria,Karangmelok
+85,279,3/25/2024,En Proceso,1144110,Efectivo,Kuwumkumambal
+86,324,2/4/2024,Entregado,2154240,Efectivo,Casuguran
+87,402,12/5/2024,Cancelado,2199937,Tarjeta de Crédito,Cabedelo
+88,463,5/1/2024,Cancelado,2964051,Tarjeta de Débito,Dzoraghbyur
+89,293,8/14/2024,En Proceso,1759199,Efectivo,Sablé-sur-Sarthe
+90,492,7/9/2024,Entregado,2639428,Tarjeta de Crédito,Changqiao
+91,6,12/12/2024,Entregado,1554545,Efectivo,Lazeshchyna
+92,431,10/29/2024,Entregado,2658967,Tarjeta de Crédito,Nanfeng
+93,416,5/21/2024,Entregado,2562148,Tarjeta de Débito,Dobřany
+94,408,9/19/2024,Pendiente,2401125,Transferencia Bancaria,Jaboatão dos Guararapes
+95,135,1/29/2024,Entregado,3483843,Efectivo,Cheb
+96,3,5/22/2024,Entregado,2879871,Efectivo,Saint John
+97,412,7/16/2024,En Proceso,2954700,Tarjeta de Crédito,Asbest
+98,378,9/13/2024,Entregado,260932,Tarjeta de Crédito,Xiema
+99,169,2/21/2024,Pendiente,1849775,Transferencia Bancaria,Rupe
+100,103,3/15/2024,Entregado,1319303,Tarjeta de Débito,Ufa
+101,483,12/16/2024,Cancelado,2362498,Transferencia Bancaria,Leshukonskoye
+102,64,5/28/2024,Pendiente,1473635,Tarjeta de Débito,San Luis
+103,197,3/7/2024,Pendiente,3620229,Tarjeta de Débito,Huyuan
+104,56,6/5/2024,Pendiente,930547,Tarjeta de Crédito,Khokhryaki
+105,345,11/14/2024,Pendiente,858653,Tarjeta de Crédito,Libu
+106,124,6/27/2024,Entregado,524169,Transferencia Bancaria,Paris 15
+107,245,6/3/2024,Cancelado,1950030,Transferencia Bancaria,Osvaldo Cruz
+108,45,5/27/2024,Pendiente,1508482,Transferencia Bancaria,Poja
+109,115,9/20/2024,Pendiente,2136333,Tarjeta de Crédito,Labytnangi
+110,282,7/5/2024,Cancelado,3832483,Tarjeta de Débito,Sukawaris
+111,332,1/23/2024,Cancelado,1325392,Efectivo,Ptení
+112,250,6/29/2024,Cancelado,3351031,Tarjeta de Crédito,Yefremov
+113,374,10/1/2024,En Proceso,3306574,Tarjeta de Débito,Bontang Baru
+114,487,8/10/2024,Pendiente,3150585,Tarjeta de Crédito,Moshenskoye
+115,448,8/11/2024,Pendiente,692272,Tarjeta de Crédito,Almaguer North
+116,355,10/27/2024,Pendiente,2754320,Tarjeta de Crédito,Niquelândia
+117,144,6/17/2024,Cancelado,2489205,Tarjeta de Débito,Volodarka
+118,90,7/2/2024,Pendiente,1092956,Transferencia Bancaria,Atouguia
+119,44,9/20/2024,Pendiente,3770023,Tarjeta de Crédito,Cibatu
+120,89,1/5/2024,En Proceso,3453261,Tarjeta de Crédito,Selianítika
+121,145,3/9/2024,Entregado,699781,Tarjeta de Crédito,Alastaro
+122,199,7/23/2024,Cancelado,1604182,Efectivo,Youlongchuan
+123,189,7/13/2024,En Proceso,985013,Tarjeta de Débito,Baihe
+124,98,9/17/2024,En Proceso,949313,Transferencia Bancaria,Ilama
+125,444,4/22/2024,Entregado,2711713,Transferencia Bancaria,Ol Kalou
+126,119,5/6/2024,Entregado,728519,Tarjeta de Crédito,Lincheng
+127,51,7/14/2024,Entregado,1023557,Tarjeta de Débito,Matam
+128,100,12/5/2024,Cancelado,742729,Tarjeta de Débito,Lyon
+129,440,12/31/2024,Pendiente,727122,Tarjeta de Débito,Omigawa
+130,139,3/27/2024,En Proceso,2059807,Tarjeta de Débito,Kil
+131,2,5/31/2024,Entregado,2974727,Tarjeta de Débito,Suru
+132,295,8/2/2024,Entregado,437240,Efectivo,San Juan
+133,26,12/23/2024,Cancelado,2219616,Transferencia Bancaria,Bertioga
+134,162,6/8/2024,Entregado,2787441,Transferencia Bancaria,Jardim do Seridó
+135,381,4/19/2024,Pendiente,2920450,Transferencia Bancaria,Tuupovaara
+136,74,12/21/2024,En Proceso,1553872,Transferencia Bancaria,Wanliang
+137,213,1/23/2024,Cancelado,1373127,Tarjeta de Crédito,Dayuan
+138,456,6/20/2024,Pendiente,300231,Transferencia Bancaria,Challans
+139,276,12/23/2024,Pendiente,823235,Tarjeta de Débito,Narong
+140,347,3/10/2024,Entregado,2380994,Efectivo,Isesaki
+141,39,7/16/2024,Cancelado,3216957,Tarjeta de Crédito,Muzhijie
+142,62,10/16/2024,Entregado,2113680,Efectivo,San Bartolomé Milpas Altas
+143,87,2/8/2024,Entregado,1136757,Transferencia Bancaria,Soure
+144,415,1/11/2024,En Proceso,565977,Tarjeta de Crédito,Parzęczew
+145,74,2/13/2024,Entregado,3462709,Efectivo,El Espino
+146,165,6/27/2024,En Proceso,2477074,Efectivo,Medang
+147,499,7/31/2024,Cancelado,3085083,Tarjeta de Crédito,Lélouma
+148,61,6/11/2024,Cancelado,545880,Tarjeta de Débito,São João de Meriti
+149,438,6/28/2024,Cancelado,400084,Transferencia Bancaria,Sydney
+150,258,9/25/2024,Entregado,3087518,Transferencia Bancaria,Bamako
+151,447,12/17/2024,Entregado,1553236,Transferencia Bancaria,Bouctouche
+152,23,12/15/2024,Cancelado,2060436,Transferencia Bancaria,Harrisburg
+153,306,3/12/2024,Pendiente,2087062,Transferencia Bancaria,Ueda
+154,198,1/21/2024,Cancelado,2410761,Tarjeta de Débito,Lewobelek
+155,458,5/17/2024,Cancelado,2209234,Tarjeta de Crédito,Huillapima
+156,71,12/18/2024,En Proceso,112098,Tarjeta de Débito,Sukodono
+157,316,11/8/2024,Pendiente,3900260,Transferencia Bancaria,Madrid
+158,443,2/29/2024,En Proceso,384043,Tarjeta de Crédito,Kangping
+159,47,4/21/2024,En Proceso,1963554,Tarjeta de Débito,Santa Teresa
+160,14,8/3/2024,Cancelado,854475,Tarjeta de Crédito,Perdões
+161,381,3/23/2024,Cancelado,3656612,Tarjeta de Crédito,Aizhai
+162,337,5/1/2024,Entregado,1857374,Transferencia Bancaria,Ciudad Choluteca
+163,22,11/29/2024,Cancelado,3326485,Tarjeta de Débito,Ābdānān
+164,312,9/25/2024,Cancelado,1331262,Transferencia Bancaria,Bukbatang
+165,86,8/20/2024,En Proceso,3672941,Tarjeta de Débito,Sundsvall
+166,373,4/9/2024,Pendiente,3908560,Transferencia Bancaria,Krong Pi Nang
+167,366,4/25/2024,Pendiente,2436771,Transferencia Bancaria,Tamel
+168,484,11/10/2024,En Proceso,326352,Efectivo,Odrinhas
+169,337,5/25/2024,Pendiente,200796,Tarjeta de Débito,Jiangfeng
+170,174,8/5/2024,Cancelado,2990710,Efectivo,Iparia
+171,267,8/30/2024,En Proceso,2294882,Transferencia Bancaria,Pamakayo
+172,83,8/29/2024,Entregado,2905480,Efectivo,Konstantinovo
+173,253,7/3/2024,Pendiente,835450,Tarjeta de Débito,Chiţcani
+174,421,11/24/2024,En Proceso,855701,Tarjeta de Débito,Mesa
+175,62,4/15/2024,Entregado,1722007,Tarjeta de Crédito,Stare Kurowo
+176,16,8/21/2024,Pendiente,3344273,Efectivo,Huangzhai
+177,38,6/2/2024,Pendiente,3137074,Efectivo,Ballybofey
+178,310,5/26/2024,Pendiente,1652529,Tarjeta de Crédito,Dicamay
+179,223,2/27/2024,Entregado,2918848,Tarjeta de Crédito,Cangkuang
+180,426,11/17/2024,Entregado,1142843,Efectivo,Vykhino-Zhulebino
+181,293,8/31/2024,En Proceso,490136,Efectivo,Beicang
+182,333,3/7/2024,Entregado,3389192,Transferencia Bancaria,Oliveira
+183,494,8/29/2024,En Proceso,1443993,Tarjeta de Débito,Tumpang
+184,446,1/10/2024,Entregado,1471902,Efectivo,Žabčice
+185,115,9/16/2024,Cancelado,2442003,Efectivo,Poigar
+186,106,7/21/2024,En Proceso,2440064,Tarjeta de Débito,Bogotá
+187,230,11/24/2024,Entregado,1219658,Tarjeta de Débito,Revolucion Verde
+188,41,7/15/2024,En Proceso,350961,Tarjeta de Crédito,Xin’an
+189,290,11/1/2024,Entregado,187648,Transferencia Bancaria,Bom Conselho
+190,149,8/5/2024,En Proceso,3420488,Tarjeta de Crédito,Viña del Mar
+191,23,1/20/2024,Pendiente,2223407,Efectivo,Loma
+192,387,11/11/2024,Entregado,3055811,Tarjeta de Débito,Xiashixiang
+193,470,1/16/2024,En Proceso,3794379,Tarjeta de Crédito,Yeosu
+194,337,3/5/2024,Cancelado,3995069,Transferencia Bancaria,Manggis
+195,41,10/23/2024,Pendiente,2552988,Transferencia Bancaria,Xijiadian
+196,204,9/11/2024,Entregado,1150561,Transferencia Bancaria,Picos
+197,303,2/5/2024,En Proceso,1660736,Tarjeta de Débito,Vilémov
+198,456,10/6/2024,Pendiente,2042237,Transferencia Bancaria,Dongdajie
+199,19,2/5/2024,En Proceso,2258378,Transferencia Bancaria,Khondāb
+200,26,2/12/2024,Cancelado,2571848,Transferencia Bancaria,Lueng Putu
+201,67,8/5/2024,Pendiente,156650,Tarjeta de Crédito,Pietermaritzburg
+202,486,4/14/2024,Entregado,2249818,Transferencia Bancaria,Jinan-gun
+203,55,5/21/2024,En Proceso,1370806,Transferencia Bancaria,Lyon
+204,373,1/15/2024,En Proceso,426830,Transferencia Bancaria,Biguaçu
+205,120,5/24/2024,Cancelado,478085,Transferencia Bancaria,Skalánion
+206,69,7/8/2024,Pendiente,274410,Efectivo,Catarman
+207,272,4/9/2024,Pendiente,1157266,Efectivo,Pasirpanjang
+208,366,4/30/2024,Cancelado,2966012,Tarjeta de Débito,Strumica
+209,70,10/12/2024,Cancelado,345665,Tarjeta de Débito,Fanrong
+210,117,2/28/2024,Pendiente,3456982,Tarjeta de Débito,Tiancheng
+211,167,5/18/2024,En Proceso,1663616,Tarjeta de Crédito,Tuusula
+212,235,12/25/2024,En Proceso,2297825,Transferencia Bancaria,Jiuquan
+213,389,8/5/2024,Pendiente,2097689,Efectivo,Juntang
+214,23,9/29/2024,Cancelado,1117842,Tarjeta de Débito,La Romana
+215,44,5/15/2024,En Proceso,1383128,Transferencia Bancaria,Dimayon
+216,13,12/21/2024,Entregado,1413001,Efectivo,Sumberejo
+217,191,1/15/2024,Pendiente,470073,Efectivo,Bi’r Ḩāt
+218,233,11/5/2024,Pendiente,2327242,Tarjeta de Débito,Suḩayl Shibām
+219,53,5/23/2024,En Proceso,1581902,Tarjeta de Crédito,Osveya
+220,182,3/28/2024,Entregado,617260,Tarjeta de Crédito,København
+221,33,1/27/2024,En Proceso,2517295,Transferencia Bancaria,Pegões
+222,265,8/22/2024,En Proceso,1914979,Tarjeta de Crédito,Mîndreşti
+223,432,1/31/2024,Cancelado,3241527,Tarjeta de Débito,Huddinge
+224,101,10/8/2024,Pendiente,2654806,Transferencia Bancaria,Zaña
+225,337,10/11/2024,Pendiente,2318052,Efectivo,Coutances
+226,402,8/22/2024,Cancelado,3343460,Transferencia Bancaria,Illintsi
+227,435,1/29/2024,Cancelado,145876,Tarjeta de Crédito,Huillapima
+228,373,6/22/2024,En Proceso,2515902,Tarjeta de Débito,Melati
+229,132,6/23/2024,Cancelado,2920613,Tarjeta de Débito,Dongtundu
+230,121,10/23/2024,Pendiente,3918818,Tarjeta de Débito,Nedašov
+231,286,9/29/2024,Pendiente,3853281,Efectivo,Creighton
+232,376,4/5/2024,Pendiente,3720821,Efectivo,Jungutbatu Kaja Dua
+233,290,6/21/2024,Entregado,3555384,Transferencia Bancaria,Kryvichy
+234,474,8/24/2024,Cancelado,3110406,Transferencia Bancaria,La Estrella
+235,310,6/21/2024,En Proceso,3857327,Transferencia Bancaria,Kopen
+236,384,3/8/2024,Entregado,946873,Tarjeta de Débito,Cabanilla
+237,49,9/27/2024,Entregado,1066904,Tarjeta de Débito,Yamaranguila
+238,8,6/1/2024,En Proceso,2864541,Transferencia Bancaria,Staraya Kulatka
+239,360,5/19/2024,Cancelado,750254,Efectivo,Vardablur
+240,216,2/18/2024,Pendiente,1925667,Tarjeta de Débito,Odintsovo
+241,124,5/10/2024,En Proceso,2370189,Transferencia Bancaria,Chwałowice
+242,342,7/8/2024,En Proceso,1726133,Tarjeta de Crédito,Göteborg
+243,24,11/9/2024,Entregado,1162202,Tarjeta de Débito,Al Khafjī
+244,81,1/4/2024,Pendiente,3055692,Tarjeta de Crédito,Sabangan
+245,500,10/22/2024,Entregado,989828,Tarjeta de Débito,Bellevue
+246,269,11/22/2024,En Proceso,1406588,Transferencia Bancaria,Mazhonghe
+247,259,8/23/2024,Pendiente,2045951,Transferencia Bancaria,Bečej
+248,203,6/15/2024,En Proceso,1020253,Tarjeta de Crédito,Washington
+249,53,12/8/2024,Cancelado,2272427,Tarjeta de Crédito,Motala
+250,74,2/11/2024,En Proceso,2950121,Efectivo,Troyan
+251,12,4/20/2024,Pendiente,3255532,Tarjeta de Débito,Taikang
+252,85,1/29/2024,Pendiente,1121267,Tarjeta de Débito,Erie
+253,432,12/4/2024,Pendiente,384375,Transferencia Bancaria,Lasi Dua
+254,251,11/29/2024,En Proceso,2167213,Tarjeta de Débito,Shimabara
+255,67,5/29/2024,Pendiente,2334967,Tarjeta de Débito,Boa Viagem
+256,485,10/7/2024,En Proceso,2212285,Efectivo,Victoria
+257,470,2/19/2024,En Proceso,2439630,Tarjeta de Crédito,Macapo
+258,367,4/10/2024,Cancelado,794872,Transferencia Bancaria,Sampaloc
+259,211,5/9/2024,Pendiente,3698663,Efectivo,Zhangcun
+260,258,10/16/2024,En Proceso,1575924,Efectivo,Pilpichaca
+261,236,6/7/2024,En Proceso,3909661,Tarjeta de Débito,Panadtaban
+262,202,7/6/2024,Cancelado,2887595,Transferencia Bancaria,Motegi
+263,179,6/3/2024,Cancelado,3919614,Efectivo,Kotel
+264,455,11/10/2024,Pendiente,2666874,Efectivo,Viradouro
+265,337,11/8/2024,Cancelado,1933768,Transferencia Bancaria,Zelenogradsk
+266,355,12/27/2024,Cancelado,847335,Tarjeta de Débito,Mapalad
+267,483,12/3/2024,Entregado,724718,Efectivo,Goma
+268,259,12/7/2024,Pendiente,3679888,Tarjeta de Crédito,Young America
+269,217,12/14/2024,En Proceso,755361,Transferencia Bancaria,Kyoto
+270,358,6/1/2024,Cancelado,3027556,Tarjeta de Crédito,Shanxi
+271,107,8/30/2024,Entregado,952222,Tarjeta de Crédito,Jincheng
+272,368,2/29/2024,Pendiente,940860,Transferencia Bancaria,Baabda
+273,325,5/30/2024,En Proceso,301689,Tarjeta de Débito,Międzyzdroje
+274,174,6/4/2024,En Proceso,999255,Tarjeta de Débito,Binzhou
+275,290,6/25/2024,Entregado,1024011,Transferencia Bancaria,Zaozhuang
+276,456,5/15/2024,Pendiente,3945115,Efectivo,Mulino
+277,446,2/11/2024,Entregado,3228902,Transferencia Bancaria,Pawłowiczki
+278,93,1/5/2024,Entregado,3383924,Tarjeta de Crédito,Västerås
+279,293,11/19/2024,Entregado,2349464,Tarjeta de Crédito,Aurillac
+280,5,3/19/2024,Cancelado,2104879,Tarjeta de Débito,Al Ma‘allā’
+281,252,8/5/2024,Cancelado,1252388,Transferencia Bancaria,Kihangara
+282,410,7/10/2024,Cancelado,1961623,Transferencia Bancaria,Kang-neung
+283,67,9/22/2024,Cancelado,1817581,Tarjeta de Crédito,Tucupita
+284,279,8/27/2024,Entregado,1703381,Tarjeta de Débito,Kamienna Góra
+285,485,6/24/2024,En Proceso,3858196,Tarjeta de Crédito,Skerries
+286,236,4/25/2024,Cancelado,3939020,Tarjeta de Débito,Tapes
+287,322,1/11/2024,En Proceso,1846383,Transferencia Bancaria,Sokołów Podlaski
+288,434,10/26/2024,Pendiente,1313986,Transferencia Bancaria,Mulatupo
+289,474,9/12/2024,Pendiente,699569,Tarjeta de Débito,Dodu Dua
+290,339,10/23/2024,En Proceso,2370666,Tarjeta de Débito,Lampa
+291,180,11/25/2024,Pendiente,2266326,Efectivo,Palermo
+292,223,11/1/2024,Cancelado,343485,Tarjeta de Crédito,Nankou
+293,135,11/5/2024,Entregado,287794,Efectivo,Chinú
+294,267,10/14/2024,En Proceso,1216057,Tarjeta de Débito,Atlanta
+295,9,5/25/2024,Entregado,3011964,Tarjeta de Crédito,Fatumuti
+296,51,9/16/2024,Cancelado,3877742,Efectivo,Amor
+297,387,9/19/2024,Cancelado,2085289,Tarjeta de Crédito,Betioky
+298,465,6/23/2024,Entregado,694315,Transferencia Bancaria,Ladysmith
+299,105,2/4/2024,Cancelado,657191,Transferencia Bancaria,Zvenyhorodka
+300,244,12/23/2024,Pendiente,263885,Tarjeta de Débito,Somba
+301,244,12/14/2024,Entregado,3533522,Tarjeta de Débito,Saint Louis
+302,207,10/4/2024,Cancelado,2384930,Tarjeta de Débito,Dijon
+303,47,9/3/2024,Cancelado,1580696,Tarjeta de Débito,Garissa
+304,459,10/16/2024,Pendiente,478526,Tarjeta de Crédito,Bwizibwera
+305,249,10/30/2024,Entregado,928633,Tarjeta de Débito,Mortka
+306,239,4/15/2024,Pendiente,2494387,Tarjeta de Débito,Zaoxi
+307,478,11/16/2024,Pendiente,1682528,Transferencia Bancaria,Mafraq
+308,479,6/2/2024,En Proceso,3324671,Tarjeta de Crédito,Reuleuet
+309,67,7/28/2024,Entregado,1848071,Efectivo,Catamayo
+310,65,9/2/2024,Cancelado,280832,Efectivo,Jargalant
+311,490,11/5/2024,Entregado,3607204,Transferencia Bancaria,Pego Longo
+312,259,1/11/2024,Pendiente,655421,Tarjeta de Débito,Marang
+313,284,4/11/2024,Pendiente,838116,Efectivo,Thị Trấn Bắc Hà
+314,205,9/15/2024,Cancelado,612779,Efectivo,Linjiang
+315,474,1/19/2024,Entregado,1408257,Efectivo,Bronx
+316,157,8/17/2024,Entregado,1788442,Tarjeta de Crédito,Youdian
+317,94,10/31/2024,Entregado,1219312,Efectivo,Shuanghe
+318,51,9/17/2024,Cancelado,3671465,Efectivo,Rízoma
+319,177,6/1/2024,En Proceso,676417,Efectivo,Sendafa
+320,383,9/20/2024,En Proceso,2237685,Transferencia Bancaria,Chocos
+321,359,2/29/2024,En Proceso,3081855,Tarjeta de Débito,Gouping
+322,367,3/11/2024,Pendiente,3375200,Tarjeta de Crédito,Blagoveshchensk
+323,164,9/21/2024,Entregado,1583863,Tarjeta de Débito,Atar
+324,191,6/24/2024,En Proceso,3460025,Transferencia Bancaria,La Esmeralda
+325,3,12/21/2024,Pendiente,164344,Tarjeta de Crédito,Mocajuba
+326,269,7/26/2024,Cancelado,1583994,Efectivo,Apopa
+327,159,4/29/2024,En Proceso,1973859,Tarjeta de Crédito,Annecy
+328,415,7/29/2024,Cancelado,3109054,Tarjeta de Débito,Malahide
+329,382,1/17/2024,Entregado,2367819,Transferencia Bancaria,Nice
+330,480,6/15/2024,En Proceso,2886142,Tarjeta de Crédito,Fifi
+331,229,1/7/2024,Entregado,2510348,Efectivo,Dardhas
+332,494,8/15/2024,En Proceso,2346403,Transferencia Bancaria,Luruaco
+333,134,10/10/2024,En Proceso,1067522,Tarjeta de Débito,Selopuro
+334,52,12/31/2024,En Proceso,1422616,Tarjeta de Débito,Guane
+335,453,1/10/2024,En Proceso,3627236,Tarjeta de Débito,Kaduheuleut
+336,177,7/3/2024,Pendiente,2973865,Efectivo,Mananara
+337,396,12/16/2024,En Proceso,2899993,Efectivo,Volochys’k
+338,201,11/1/2024,Cancelado,786084,Tarjeta de Crédito,Emiliano Zapata
+339,377,1/13/2024,Pendiente,2088521,Efectivo,Kilifi
+340,323,10/3/2024,Pendiente,3244453,Transferencia Bancaria,Otutara
+341,160,10/16/2024,Pendiente,423068,Tarjeta de Débito,Hengyang
+342,255,11/24/2024,Entregado,3099191,Efectivo,Metlika
+343,349,8/25/2024,Cancelado,879365,Efectivo,Dao’er
+344,228,1/14/2024,En Proceso,3832854,Tarjeta de Crédito,Marseille
+345,130,8/15/2024,Cancelado,1385986,Tarjeta de Crédito,Houmt Souk
+346,26,2/17/2024,Entregado,3775706,Tarjeta de Débito,Mogapinyana
+347,219,2/4/2024,Cancelado,1991999,Tarjeta de Débito,Xingong
+348,264,10/6/2024,Cancelado,1892216,Transferencia Bancaria,Kuznechikha
+349,487,3/26/2024,Pendiente,2319314,Transferencia Bancaria,Frutal
+350,217,4/6/2024,Cancelado,767483,Efectivo,Hayang
+351,486,2/17/2024,Pendiente,1133665,Tarjeta de Crédito,Podolí
+352,59,5/26/2024,En Proceso,3836032,Tarjeta de Crédito,Kelaniya
+353,64,6/10/2024,En Proceso,432743,Tarjeta de Débito,Čelinac
+354,183,2/22/2024,Cancelado,2975590,Tarjeta de Crédito,Enjiang
+355,377,3/6/2024,En Proceso,450445,Transferencia Bancaria,Anka
+356,395,5/23/2024,En Proceso,2762709,Tarjeta de Débito,Diaowei
+357,396,9/30/2024,Entregado,1474427,Tarjeta de Crédito,Ndewel
+358,22,7/5/2024,En Proceso,1856991,Transferencia Bancaria,Pestovo
+359,351,5/3/2024,En Proceso,3022794,Tarjeta de Débito,Jambuir Timur
+360,28,6/10/2024,Cancelado,959932,Tarjeta de Crédito,Bous
+361,61,2/19/2024,Entregado,775096,Transferencia Bancaria,Ibaan
+362,424,11/4/2024,En Proceso,1676554,Tarjeta de Crédito,Changle
+363,109,10/14/2024,Pendiente,1496218,Tarjeta de Crédito,Pu’er
+364,279,12/20/2024,Cancelado,541217,Transferencia Bancaria,Funafuti
+365,418,4/5/2024,En Proceso,3021039,Tarjeta de Débito,Mudian
+366,59,12/3/2024,Entregado,315954,Efectivo,Porto Ferreira
+367,423,3/12/2024,Entregado,2859770,Tarjeta de Crédito,Binitinan
+368,286,1/9/2024,Cancelado,1522780,Efectivo,Semirara
+369,104,3/14/2024,Pendiente,1447012,Transferencia Bancaria,Tuguan
+370,65,8/9/2024,Cancelado,289871,Transferencia Bancaria,Pavia
+371,36,9/11/2024,Pendiente,2031562,Transferencia Bancaria,Pobé
+372,332,1/4/2024,Entregado,719674,Tarjeta de Crédito,Yanhe
+373,87,1/27/2024,En Proceso,1207433,Tarjeta de Crédito,Khān Arnabah
+374,414,7/16/2024,Entregado,3032290,Transferencia Bancaria,Cacoal
+375,56,4/24/2024,Cancelado,155383,Tarjeta de Débito,Arras
+376,468,8/27/2024,Pendiente,3760273,Efectivo,Vila Nova
+377,120,7/29/2024,Cancelado,2782675,Tarjeta de Crédito,Karuri
+378,59,12/25/2024,En Proceso,1440979,Efectivo,São Caetano do Sul
+379,52,3/6/2024,Entregado,3846221,Transferencia Bancaria,Nicasio
+380,2,2/8/2024,Cancelado,841965,Transferencia Bancaria,Chupa
+381,151,5/26/2024,Entregado,2715955,Efectivo,Grzechynia
+382,369,7/22/2024,Cancelado,1786946,Tarjeta de Débito,Sinisian
+383,240,8/17/2024,Pendiente,1017113,Tarjeta de Débito,Moguqi
+384,450,3/30/2024,Pendiente,1183259,Efectivo,Paris 15
+385,368,10/6/2024,Entregado,706914,Efectivo,Stockholm
+386,490,1/30/2024,Entregado,1130113,Tarjeta de Débito,Jablonné nad Orlicí
+387,147,4/10/2024,Pendiente,3859825,Tarjeta de Crédito,Shal’skiy
+388,168,11/2/2024,Entregado,2283075,Efectivo,Kiihtelysvaara
+389,217,1/5/2024,En Proceso,2059678,Efectivo,Lam Plai Mat
+390,500,1/15/2024,Entregado,3268717,Transferencia Bancaria,Libei
+391,270,5/21/2024,Entregado,1399416,Transferencia Bancaria,San Martín
+392,85,1/4/2024,Pendiente,1524841,Tarjeta de Crédito,Naju
+393,434,3/24/2024,En Proceso,2315712,Transferencia Bancaria,Tonghu
+394,52,3/3/2024,Cancelado,3656483,Transferencia Bancaria,Oued Zem
+395,317,5/25/2024,En Proceso,2563914,Tarjeta de Crédito,Wenling
+396,188,3/23/2024,Cancelado,2714065,Transferencia Bancaria,Wellington
+397,304,1/31/2024,Entregado,3327910,Efectivo,Giraldo
+398,175,11/1/2024,Entregado,3866563,Tarjeta de Débito,Ivanovskoye
+399,328,6/26/2024,Pendiente,3145827,Transferencia Bancaria,Sadar
+400,291,12/16/2024,En Proceso,2444519,Efectivo,Erdu
+401,174,3/10/2024,En Proceso,1228087,Transferencia Bancaria,Xintian
+402,487,7/3/2024,Cancelado,467613,Efectivo,Strenči
+403,209,1/30/2024,Pendiente,1442673,Tarjeta de Crédito,Khotsimsk
+404,261,1/7/2024,Cancelado,2994451,Tarjeta de Crédito,Nogueira
+405,481,12/24/2024,Entregado,980075,Efectivo,Washington
+406,368,9/9/2024,Cancelado,2560341,Efectivo,Bi’r al ‘Abd
+407,179,6/19/2024,Entregado,1284294,Efectivo,Sukojember
+408,98,2/22/2024,Cancelado,1171488,Efectivo,Ambian
+409,160,5/10/2024,Pendiente,108602,Tarjeta de Crédito,Tavira
+410,94,7/12/2024,Entregado,2978598,Efectivo,Otun
+411,287,3/12/2024,Entregado,1713739,Efectivo,Tanashichō
+412,310,10/10/2024,Entregado,3417238,Efectivo,Riosucio
+413,449,10/26/2024,En Proceso,2699446,Transferencia Bancaria,Nglego
+414,459,11/21/2024,Entregado,3647050,Tarjeta de Débito,Mashui
+415,422,2/17/2024,Entregado,482871,Tarjeta de Débito,Jing’an
+416,11,5/29/2024,En Proceso,2159917,Tarjeta de Crédito,Huzhen
+417,247,10/14/2024,Pendiente,898120,Transferencia Bancaria,Skaramangás
+418,61,3/24/2024,Pendiente,3883850,Transferencia Bancaria,Mitú
+419,162,10/17/2024,En Proceso,1475283,Efectivo,Anabar
+420,387,7/20/2024,En Proceso,3090393,Tarjeta de Débito,Sishilichengzi
+421,183,12/19/2024,Cancelado,2657406,Tarjeta de Crédito,Evansville
+422,31,1/10/2024,Pendiente,3554474,Tarjeta de Débito,Yongfeng
+423,356,12/11/2024,Cancelado,1259365,Transferencia Bancaria,Horred
+424,236,3/9/2024,Pendiente,860540,Transferencia Bancaria,Hongmei
+425,58,12/1/2024,Pendiente,2053641,Tarjeta de Crédito,Nysa
+426,320,8/23/2024,Pendiente,3007351,Transferencia Bancaria,Malumfashi
+427,204,6/26/2024,Cancelado,3159286,Tarjeta de Débito,Sankwia
+428,490,5/31/2024,En Proceso,219130,Transferencia Bancaria,Tunjuk Selatan
+429,293,8/24/2024,Entregado,1312758,Transferencia Bancaria,Babice
+430,437,8/26/2024,Pendiente,3930319,Tarjeta de Crédito,Bloomington
+431,491,11/11/2024,Pendiente,995816,Tarjeta de Débito,Moengo
+432,150,12/13/2024,Cancelado,483046,Tarjeta de Crédito,Drogomyśl
+433,189,10/31/2024,Pendiente,3237871,Tarjeta de Crédito,Yinxi
+434,83,8/2/2024,En Proceso,379874,Efectivo,Jianqiao
+435,227,12/3/2024,En Proceso,1577196,Tarjeta de Débito,Tcholliré
+436,16,11/23/2024,Cancelado,3717432,Tarjeta de Crédito,Kabo
+437,230,8/15/2024,En Proceso,3852244,Tarjeta de Crédito,Przytyk
+438,257,8/23/2024,Entregado,208327,Tarjeta de Crédito,Mankoeng
+439,374,6/29/2024,Cancelado,2084090,Tarjeta de Débito,Buga
+440,92,10/24/2024,En Proceso,1723375,Tarjeta de Crédito,Trafaria
+441,386,4/18/2024,Cancelado,1474830,Tarjeta de Crédito,Klana
+442,101,6/22/2024,Pendiente,2680803,Efectivo,Old Kilcullen
+443,98,6/27/2024,Cancelado,1588326,Efectivo,Vári
+444,230,1/19/2024,Pendiente,3156680,Transferencia Bancaria,Châteauroux
+445,221,7/21/2024,Pendiente,3120235,Transferencia Bancaria,Shanghang
+446,190,9/13/2024,Cancelado,438684,Transferencia Bancaria,Cértegui
+447,12,4/20/2024,Pendiente,2069651,Efectivo,Fiorentino
+448,459,8/21/2024,Cancelado,1518554,Tarjeta de Crédito,Ta Phraya
+449,184,8/26/2024,En Proceso,1638279,Tarjeta de Crédito,Nal’chik
+450,65,12/8/2024,Pendiente,2710132,Transferencia Bancaria,Wawu
+451,196,9/20/2024,Pendiente,1459624,Efectivo,Puzi
+452,218,11/18/2024,Cancelado,3612921,Tarjeta de Débito,Polykárpi
+453,17,6/5/2024,En Proceso,610223,Tarjeta de Crédito,Dřevohostice
+454,396,7/24/2024,En Proceso,1830341,Transferencia Bancaria,Ailigandí
+455,54,6/8/2024,En Proceso,864370,Tarjeta de Débito,Curahklapa
+456,387,10/30/2024,En Proceso,1949297,Transferencia Bancaria,Guozhen
+457,424,2/20/2024,Pendiente,506616,Efectivo,Caldelas
+458,71,5/23/2024,En Proceso,490450,Transferencia Bancaria,Xintang
+459,267,4/12/2024,Pendiente,3539887,Tarjeta de Crédito,Midland
+460,420,3/16/2024,Entregado,2033012,Tarjeta de Crédito,Tukan
+461,41,7/6/2024,Entregado,946881,Tarjeta de Débito,Navan
+462,278,3/30/2024,En Proceso,3485861,Tarjeta de Débito,Yylanly
+463,180,6/14/2024,En Proceso,3868707,Tarjeta de Crédito,Dagu
+464,433,6/7/2024,En Proceso,416667,Transferencia Bancaria,Taozhou
+465,384,8/9/2024,Entregado,2909641,Transferencia Bancaria,Goght’
+466,470,4/20/2024,Cancelado,3861743,Tarjeta de Crédito,San Roque
+467,385,12/5/2024,En Proceso,811967,Tarjeta de Débito,Bau
+468,289,9/11/2024,En Proceso,2087662,Tarjeta de Crédito,Dodol
+469,401,10/26/2024,En Proceso,2397033,Efectivo,Färjestaden
+470,350,6/4/2024,Cancelado,1410180,Transferencia Bancaria,Ituverava
+471,89,7/2/2024,Entregado,3111134,Tarjeta de Débito,Al Jawf
+472,263,5/30/2024,Pendiente,1972284,Tarjeta de Crédito,Vila Ribeiro
+473,370,11/12/2024,Entregado,603431,Transferencia Bancaria,Halle
+474,447,12/20/2024,En Proceso,3472544,Tarjeta de Débito,Simo
+475,175,11/12/2024,Cancelado,3552136,Tarjeta de Crédito,Bobadela
+476,306,3/13/2024,En Proceso,3032255,Tarjeta de Crédito,Johor Bahru
+477,377,6/28/2024,En Proceso,2989898,Tarjeta de Crédito,Tadine
+478,416,8/4/2024,Pendiente,1646315,Efectivo,Ypacarai
+479,260,10/2/2024,Cancelado,2005849,Tarjeta de Crédito,Bradenton
+480,384,8/9/2024,Entregado,2933278,Tarjeta de Crédito,Borne Sulinowo
+481,323,6/14/2024,Cancelado,3725868,Efectivo,Paço
+482,97,8/8/2024,En Proceso,1218469,Tarjeta de Débito,Xinning
+483,157,4/24/2024,Pendiente,1409340,Efectivo,Batas Barat
+484,406,10/20/2024,Entregado,313693,Tarjeta de Crédito,Rodópoli
+485,287,6/27/2024,En Proceso,1948269,Efectivo,Linshui
+486,63,7/19/2024,En Proceso,3979104,Tarjeta de Débito,Jatirejo
+487,470,3/9/2024,Pendiente,1858085,Tarjeta de Crédito,La Francia
+488,401,4/10/2024,Entregado,986542,Efectivo,Jacksonville
+489,260,3/12/2024,Entregado,3246323,Transferencia Bancaria,Dongtian
+490,370,3/31/2024,Cancelado,1377044,Tarjeta de Débito,Lysá nad Labem
+491,284,12/28/2024,Pendiente,641950,Efectivo,Dschang
+492,162,12/10/2024,Pendiente,1617499,Tarjeta de Crédito,Dongxiao
+493,190,2/19/2024,Pendiente,3449503,Tarjeta de Débito,Puncaksempur
+494,6,10/26/2024,En Proceso,3301372,Tarjeta de Crédito,Dois Córregos
+495,193,5/24/2024,Cancelado,2027591,Transferencia Bancaria,Benito Juarez
+496,44,1/20/2024,Cancelado,2238582,Efectivo,Orlando
+497,285,5/14/2024,Entregado,2523697,Tarjeta de Crédito,Tulsa
+498,1,2/11/2024,En Proceso,3565701,Efectivo,Fenghuang
+499,128,8/12/2024,Pendiente,1899053,Tarjeta de Débito,Turtas
+500,328,3/4/2024,Entregado,2445623,Tarjeta de Crédito,Cabudare
+501,34,4/20/2024,Entregado,3123861,Tarjeta de Débito,Bua Yai
+502,35,3/20/2024,Cancelado,734432,Tarjeta de Débito,Kezilei
+503,62,10/20/2024,Pendiente,1847485,Tarjeta de Crédito,Almeria
+504,408,9/17/2024,Entregado,2129515,Tarjeta de Débito,Ipatinga
+505,93,6/17/2024,Cancelado,387813,Tarjeta de Crédito,Brka
+506,144,5/11/2024,En Proceso,2113385,Efectivo,Chiba
+507,486,7/24/2024,Entregado,3781858,Tarjeta de Crédito,Arrah
+508,42,3/16/2024,Cancelado,250504,Tarjeta de Débito,Străşeni
+509,369,7/16/2024,Cancelado,242741,Tarjeta de Crédito,Vareiá
+510,53,8/8/2024,Entregado,1631146,Transferencia Bancaria,Elbasan
+511,326,6/8/2024,Entregado,1474637,Tarjeta de Débito,Lousa
+512,147,6/29/2024,Entregado,2360456,Tarjeta de Débito,Qingzhou
+513,35,6/27/2024,Pendiente,3637950,Transferencia Bancaria,Enzan
+514,81,2/24/2024,En Proceso,1619715,Efectivo,Sātkhira
+515,242,7/27/2024,Cancelado,1844016,Efectivo,Zürich
+516,326,5/18/2024,Cancelado,738874,Efectivo,Novovolyns’k
+517,35,6/25/2024,Pendiente,1088165,Efectivo,Songkeng
+518,420,2/13/2024,Pendiente,2843459,Efectivo,Donja Mahala
+519,258,8/20/2024,Entregado,2720320,Tarjeta de Débito,Kauditan
+520,224,8/13/2024,Cancelado,2771118,Tarjeta de Débito,Boticas
+521,26,10/26/2024,Cancelado,2559292,Tarjeta de Crédito,Phước An
+522,127,11/2/2024,Pendiente,1215328,Efectivo,Marcos Juárez
+523,255,4/12/2024,Pendiente,1624027,Efectivo,Wlingi
+524,114,8/10/2024,Cancelado,1980021,Tarjeta de Crédito,Colinas
+525,244,11/12/2024,Cancelado,2837737,Efectivo,Quatro Barras
+526,189,9/24/2024,Entregado,1244958,Efectivo,Yuanyang
+527,89,7/29/2024,Entregado,1221181,Efectivo,Malczyce
+528,482,4/9/2024,Entregado,3631448,Transferencia Bancaria,Longxi
+529,391,6/8/2024,Entregado,923709,Tarjeta de Crédito,Sanlanbahai
+530,37,3/31/2024,Entregado,1591957,Tarjeta de Crédito,Kraljevo
+531,322,10/11/2024,Pendiente,1039367,Tarjeta de Débito,Opuwo
+532,34,5/15/2024,Pendiente,1643086,Efectivo,Rybczewice
+533,57,5/28/2024,En Proceso,2675119,Transferencia Bancaria,Saxin
+534,326,3/2/2024,En Proceso,2360989,Transferencia Bancaria,Churovichi
+535,101,7/2/2024,Cancelado,1693715,Transferencia Bancaria,Örnsköldsvik
+536,476,8/15/2024,Cancelado,3968810,Efectivo,Tsapêraī
+537,204,3/17/2024,En Proceso,992303,Tarjeta de Débito,Psary
+538,189,10/7/2024,Cancelado,3927442,Tarjeta de Crédito,Lanta Timur
+539,369,10/24/2024,Pendiente,2896791,Tarjeta de Débito,Piggs Peak
+540,340,8/8/2024,En Proceso,176121,Transferencia Bancaria,Kaduranca
+541,78,9/25/2024,Entregado,922880,Efectivo,Japeri
+542,257,1/6/2024,En Proceso,968358,Tarjeta de Débito,Thị Trấn Mù Cang Chải
+543,402,5/13/2024,Entregado,2200809,Tarjeta de Crédito,Balabagan
+544,182,7/30/2024,Pendiente,2309668,Efectivo,Xinghuo
+545,309,8/1/2024,Cancelado,1260520,Tarjeta de Débito,Gunungkendeng
+546,66,1/14/2024,Entregado,3314168,Tarjeta de Crédito,Mê Linh
+547,449,12/23/2024,Entregado,788215,Tarjeta de Débito,San Antonio
+548,289,3/12/2024,En Proceso,1969211,Tarjeta de Débito,Staryye Atagi
+549,415,5/12/2024,En Proceso,2767927,Tarjeta de Crédito,Söderköping
+550,343,2/29/2024,En Proceso,211742,Tarjeta de Crédito,Boca do Acre
+551,192,11/24/2024,Cancelado,405656,Efectivo,El Mirador
+552,336,11/24/2024,En Proceso,891921,Efectivo,Kariat Arkmane
+553,46,4/4/2024,En Proceso,3306611,Tarjeta de Crédito,Tomé
+554,343,4/23/2024,Pendiente,3283771,Transferencia Bancaria,Guagua
+555,141,10/30/2024,Cancelado,3000183,Efectivo,Nzeto
+556,311,1/30/2024,Cancelado,964937,Transferencia Bancaria,Kaca
+557,28,10/8/2024,Cancelado,2702272,Tarjeta de Crédito,Tunal
+558,483,9/16/2024,En Proceso,2737019,Efectivo,Kérkyra
+559,71,11/1/2024,Entregado,3854194,Transferencia Bancaria,Muzambinho
+560,500,7/30/2024,Entregado,1105505,Tarjeta de Débito,Piteå
+561,306,7/19/2024,Pendiente,2640067,Tarjeta de Débito,Krajan Suko Kidul
+562,352,8/31/2024,En Proceso,1202173,Tarjeta de Crédito,Fale old settlement
+563,452,9/19/2024,Entregado,313256,Tarjeta de Débito,Xilian
+564,222,7/24/2024,Cancelado,2736590,Tarjeta de Crédito,Basicao Coastal
+565,110,9/16/2024,Entregado,2579734,Tarjeta de Crédito,Esquina
+566,150,1/27/2024,Pendiente,1683302,Tarjeta de Débito,Jiangnan
+567,262,7/10/2024,En Proceso,3588598,Tarjeta de Crédito,Brusartsi
+568,102,9/30/2024,En Proceso,3447467,Tarjeta de Crédito,Grand Sable
+569,456,2/4/2024,Entregado,979701,Efectivo,Yunxi
+570,397,1/3/2024,Entregado,2005972,Tarjeta de Débito,Cam Ranh
+571,237,4/8/2024,En Proceso,3622511,Tarjeta de Débito,Haugesund
+572,274,7/8/2024,Cancelado,372394,Efectivo,Uzdin
+573,346,1/31/2024,Pendiente,2227135,Transferencia Bancaria,Realeza
+574,411,7/25/2024,Entregado,1627821,Tarjeta de Crédito,Cachoeirinha
+575,19,7/16/2024,Cancelado,2685117,Tarjeta de Débito,Parapat
+576,402,5/1/2024,Entregado,3801383,Tarjeta de Crédito,Cabreúva
+577,213,8/14/2024,Cancelado,3485804,Tarjeta de Débito,Dabao’anzhen
+578,217,12/6/2024,Entregado,1454144,Transferencia Bancaria,Xiaohebian
+579,412,5/19/2024,Cancelado,303987,Efectivo,Kirgili
+580,307,8/12/2024,Pendiente,991319,Efectivo,Khalkhāl
+581,437,3/7/2024,Pendiente,1507668,Tarjeta de Crédito,Ambat
+582,499,5/19/2024,En Proceso,1919489,Transferencia Bancaria,Sundbyberg
+583,14,2/16/2024,Entregado,3116910,Tarjeta de Crédito,Medzhibozh
+584,211,4/20/2024,En Proceso,3495018,Tarjeta de Crédito,Rokytnice nad Jizerou
+585,215,7/31/2024,Entregado,3774183,Tarjeta de Débito,Danxi
+586,183,2/23/2024,En Proceso,557110,Tarjeta de Débito,Sale
+587,180,11/21/2024,Entregado,190299,Efectivo,Villa Castelli
+588,485,5/6/2024,Entregado,3606597,Efectivo,Harbour Breton
+589,443,8/16/2024,Entregado,3840018,Efectivo,Xiongji
+590,167,10/6/2024,Cancelado,2031096,Efectivo,Yihe
+591,295,11/19/2024,En Proceso,3829203,Transferencia Bancaria,Bantal
+592,232,11/2/2024,En Proceso,1544622,Transferencia Bancaria,Tangjiawan
+593,397,3/5/2024,Pendiente,843621,Tarjeta de Débito,Pilchowice
+594,450,12/14/2024,Entregado,3654544,Efectivo,Domalanoan
+595,71,8/9/2024,En Proceso,2042764,Tarjeta de Crédito,Changyi
+596,44,3/11/2024,Entregado,1086245,Tarjeta de Crédito,Nazaré
+597,118,4/29/2024,Pendiente,2583016,Transferencia Bancaria,Byuravan
+598,344,1/25/2024,Cancelado,122038,Tarjeta de Débito,Rublëvo
+599,418,10/14/2024,En Proceso,2504323,Tarjeta de Crédito,Sandnes
+600,29,5/2/2024,En Proceso,1652645,Transferencia Bancaria,Daja
+601,343,12/1/2024,Cancelado,1413673,Transferencia Bancaria,Bei’an
+602,27,1/15/2024,Pendiente,801956,Transferencia Bancaria,Dancheng
+603,7,3/10/2024,Cancelado,737119,Tarjeta de Débito,Cevicos
+604,350,5/31/2024,Entregado,2225667,Tarjeta de Débito,Dodola
+605,276,1/26/2024,Cancelado,2075923,Transferencia Bancaria,Frederiksberg
+606,34,12/17/2024,Entregado,2443343,Tarjeta de Crédito,Kanbe
+607,152,1/17/2024,Pendiente,1683640,Tarjeta de Débito,Lipov
+608,355,5/4/2024,Pendiente,1732054,Transferencia Bancaria,Gaopu
+609,493,12/17/2024,Pendiente,236903,Tarjeta de Débito,Qianyou
+610,111,11/28/2024,En Proceso,3423339,Tarjeta de Débito,Xin’an
+611,117,8/10/2024,Pendiente,2325550,Efectivo,Novosmolinskiy
+612,53,12/14/2024,En Proceso,1490968,Tarjeta de Crédito,Vista Hermosa
+613,126,12/28/2024,En Proceso,461041,Efectivo,Pingshan
+614,116,10/7/2024,Entregado,2688215,Tarjeta de Crédito,Recife
+615,155,1/19/2024,Pendiente,3216683,Tarjeta de Crédito,Głowno
+616,199,7/24/2024,En Proceso,1882102,Tarjeta de Débito,Ban Lam Luk Ka
+617,193,3/27/2024,Entregado,2451087,Transferencia Bancaria,Retenggoma
+618,366,2/16/2024,Pendiente,561543,Tarjeta de Crédito,Pitogo
+619,435,8/30/2024,Cancelado,2361257,Tarjeta de Débito,Dourados
+620,39,6/16/2024,Pendiente,3189062,Tarjeta de Crédito,Nepeña
+621,33,9/28/2024,Cancelado,1852596,Tarjeta de Débito,Palmerston North
+622,129,4/27/2024,En Proceso,3069169,Tarjeta de Crédito,Wright
+623,36,5/22/2024,En Proceso,1354870,Efectivo,Sanli
+624,246,9/13/2024,Cancelado,3803767,Transferencia Bancaria,Bibis
+625,97,12/24/2024,Pendiente,1077766,Tarjeta de Débito,Berón de Astrada
+626,487,5/5/2024,Pendiente,3862586,Efectivo,Qagan Obo
+627,344,6/29/2024,Cancelado,2794482,Tarjeta de Débito,Staraya Kupavna
+628,143,9/29/2024,En Proceso,1691531,Transferencia Bancaria,Mariana
+629,142,7/7/2024,Entregado,914363,Tarjeta de Débito,Kulykiv
+630,44,2/29/2024,En Proceso,3683523,Tarjeta de Crédito,Presnenskiy
+631,407,2/9/2024,En Proceso,2027520,Efectivo,Pallanchacra
+632,183,7/3/2024,Cancelado,2455136,Tarjeta de Débito,Ngajum
+633,215,3/20/2024,Cancelado,1985271,Efectivo,Norberg
+634,245,8/1/2024,Pendiente,2811490,Tarjeta de Débito,Kristiansund N
+635,81,7/29/2024,Cancelado,815956,Efectivo,Villeneuve-lès-Avignon
+636,137,10/27/2024,Cancelado,2420844,Efectivo,Strängnäs
+637,379,9/27/2024,Entregado,961575,Efectivo,Simão Dias
+638,374,12/21/2024,Cancelado,2886034,Tarjeta de Crédito,Porto Feliz
+639,1,11/7/2024,En Proceso,3408360,Transferencia Bancaria,Mesquite
+640,101,6/18/2024,Entregado,339539,Transferencia Bancaria,Hake
+641,458,12/7/2024,Cancelado,2550994,Tarjeta de Crédito,Sbo’o
+642,284,3/26/2024,En Proceso,1526376,Efectivo,Buenos Aires
+643,213,3/24/2024,Pendiente,170847,Tarjeta de Crédito,Carmen
+644,315,4/1/2024,En Proceso,2579904,Transferencia Bancaria,Horta
+645,287,7/21/2024,Pendiente,1082596,Transferencia Bancaria,Nangakeo
+646,179,5/19/2024,Entregado,2122829,Efectivo,Aurora
+647,412,1/29/2024,Entregado,2603118,Transferencia Bancaria,Cabuyaro
+648,68,2/18/2024,En Proceso,385647,Transferencia Bancaria,Sant Julià de Lòria
+649,384,3/29/2024,En Proceso,1834189,Efectivo,El Suyatal
+650,170,6/3/2024,Entregado,1430451,Tarjeta de Crédito,Rennes
+651,345,11/1/2024,Cancelado,3818310,Efectivo,Effium
+652,189,10/17/2024,Pendiente,640867,Transferencia Bancaria,Huomachong
+653,253,5/16/2024,Entregado,3116104,Efectivo,Baocun
+654,261,4/1/2024,Pendiente,899768,Tarjeta de Crédito,Krapina
+655,188,10/17/2024,En Proceso,2069657,Tarjeta de Débito,Akráta
+656,125,8/1/2024,En Proceso,1696966,Efectivo,Kepoh
+657,339,4/5/2024,Pendiente,1523210,Efectivo,Sahline
+658,426,2/20/2024,Cancelado,2779857,Transferencia Bancaria,Debre Sīna
+659,24,6/13/2024,Cancelado,3425199,Transferencia Bancaria,The Valley
+660,260,3/23/2024,Pendiente,3498003,Tarjeta de Débito,Raphoe
+661,319,1/24/2024,En Proceso,2836817,Tarjeta de Débito,Lolayan
+662,31,5/10/2024,Cancelado,2740917,Efectivo,İsmayıllı
+663,288,9/30/2024,En Proceso,2522133,Tarjeta de Débito,Lundo
+664,70,7/27/2024,Pendiente,1240314,Efectivo,Nidri
+665,304,12/6/2024,Entregado,1232167,Efectivo,Melville
+666,228,4/13/2024,En Proceso,3600303,Tarjeta de Crédito,La Foa
+667,455,10/23/2024,Pendiente,2653496,Transferencia Bancaria,Mangxing
+668,54,1/2/2024,Cancelado,3740162,Tarjeta de Crédito,Iraquara
+669,199,8/1/2024,Pendiente,441051,Transferencia Bancaria,Kenamoen
+670,29,2/23/2024,En Proceso,1250102,Transferencia Bancaria,Fonseca
+671,53,4/9/2024,En Proceso,2191063,Transferencia Bancaria,Talmest
+672,345,12/27/2024,Pendiente,844640,Efectivo,Huakoulongtan
+673,34,4/23/2024,En Proceso,300033,Transferencia Bancaria,Shunde
+674,132,10/14/2024,Pendiente,517713,Efectivo,Dalaba
+675,170,4/17/2024,Entregado,1993390,Transferencia Bancaria,Kebonagung
+676,415,12/28/2024,Cancelado,2905128,Efectivo,Cikotok
+677,491,12/14/2024,Cancelado,2747685,Efectivo,Sinfra
+678,44,5/1/2024,Entregado,3165156,Transferencia Bancaria,Dunmanway
+679,341,12/26/2024,Entregado,2315362,Tarjeta de Crédito,Tekik Wetan
+680,98,11/9/2024,Pendiente,1856527,Efectivo,Phonsavan
+681,146,1/22/2024,En Proceso,3255816,Transferencia Bancaria,Rana
+682,41,3/28/2024,Cancelado,478300,Efectivo,Hanau
+683,219,8/3/2024,Entregado,779650,Transferencia Bancaria,Nakano
+684,152,8/28/2024,Pendiente,528985,Efectivo,Shangyong
+685,455,6/7/2024,Cancelado,2982990,Tarjeta de Crédito,Capitán Sarmiento
+686,339,7/27/2024,En Proceso,1328944,Efectivo,Oborniki Śląskie
+687,313,9/19/2024,En Proceso,2213342,Tarjeta de Débito,Zhalinghu
+688,334,11/26/2024,Pendiente,2048647,Transferencia Bancaria,Zhujiatai
+689,390,3/3/2024,Entregado,1808512,Efectivo,Salvacion
+690,184,12/1/2024,En Proceso,529951,Tarjeta de Débito,Wangyi Zhendian
+691,34,12/14/2024,Pendiente,2071800,Efectivo,Wonosari
+692,95,11/27/2024,Pendiente,627031,Transferencia Bancaria,Wanglu Kulon
+693,429,2/19/2024,Pendiente,986509,Tarjeta de Crédito,Skalánion
+694,499,6/3/2024,Pendiente,1044601,Tarjeta de Débito,Anjepy
+695,14,7/2/2024,Entregado,2517094,Transferencia Bancaria,Hekinan
+696,312,1/27/2024,Entregado,2022170,Tarjeta de Débito,Peña Blanca
+697,158,5/17/2024,Pendiente,3738466,Tarjeta de Crédito,Auki
+698,48,8/19/2024,Cancelado,2822665,Efectivo,Taloko
+699,186,2/13/2024,Pendiente,372965,Tarjeta de Crédito,Burgas
+700,124,9/12/2024,En Proceso,152948,Tarjeta de Crédito,Marolambo
+701,425,2/9/2024,Cancelado,3396404,Efectivo,Congkar
+702,157,7/13/2024,En Proceso,3446371,Efectivo,Nacka
+703,427,6/23/2024,Cancelado,3767758,Tarjeta de Crédito,Mabugang
+704,241,7/17/2024,Cancelado,1329165,Transferencia Bancaria,Sịa
+705,463,10/22/2024,En Proceso,2772646,Efectivo,Bretaña
+706,14,1/7/2024,Pendiente,1586998,Transferencia Bancaria,Chiscas
+707,12,6/21/2024,Pendiente,2131168,Transferencia Bancaria,Levski
+708,304,6/18/2024,Entregado,2453809,Tarjeta de Débito,Sezemice
+709,215,8/25/2024,Entregado,2552672,Transferencia Bancaria,Wolowona
+710,404,12/1/2024,Cancelado,569337,Tarjeta de Crédito,Sebeta
+711,244,8/23/2024,Pendiente,703231,Tarjeta de Débito,Cần Giờ
+712,13,8/20/2024,Pendiente,802143,Tarjeta de Débito,Papeete
+713,191,12/19/2024,Pendiente,108000,Tarjeta de Débito,Kisasa
+714,366,4/2/2024,Pendiente,2915193,Efectivo,Turki
+715,450,4/30/2024,En Proceso,429635,Transferencia Bancaria,Biliran
+716,54,4/25/2024,Entregado,782506,Tarjeta de Débito,Fika
+717,417,9/19/2024,Cancelado,1674976,Efectivo,Lobatse
+718,465,4/27/2024,Cancelado,1552724,Transferencia Bancaria,Daleman
+719,239,3/6/2024,Entregado,719852,Efectivo,Pingding
+720,175,10/16/2024,Entregado,1568599,Tarjeta de Crédito,Cojutepeque
+721,177,2/10/2024,Entregado,2332654,Transferencia Bancaria,Santa Maria
+722,30,4/12/2024,Entregado,1252874,Tarjeta de Débito,Reina Mercedes
+723,291,6/24/2024,Cancelado,1637820,Efectivo,Nowlamary
+724,85,12/8/2024,Pendiente,798939,Tarjeta de Débito,Las Vegas
+725,449,2/26/2024,Entregado,3191006,Efectivo,Retiro
+726,170,1/18/2024,Cancelado,3193857,Transferencia Bancaria,Apengjiang
+727,259,5/9/2024,Entregado,2589814,Transferencia Bancaria,Emiliano Zapata
+728,150,11/5/2024,Entregado,2974869,Tarjeta de Crédito,Tatsunochō-tominaga
+729,156,7/13/2024,En Proceso,3620820,Efectivo,Cáceres
+730,218,8/2/2024,Pendiente,183799,Tarjeta de Crédito,Hujia
+731,292,6/24/2024,Cancelado,2238614,Tarjeta de Crédito,Shuqiao
+732,454,11/26/2024,Entregado,2923793,Tarjeta de Débito,Panolan
+733,338,7/15/2024,Cancelado,1288197,Efectivo,Oravais
+734,448,1/16/2024,Cancelado,672905,Efectivo,Tall Rif‘at
+735,418,8/31/2024,Entregado,1195038,Tarjeta de Crédito,Elliot
+736,469,3/2/2024,Cancelado,2485666,Transferencia Bancaria,Lyubim
+737,100,12/3/2024,Pendiente,816466,Transferencia Bancaria,Kuroishi
+738,355,9/29/2024,Entregado,1957418,Transferencia Bancaria,Gio Linh
+739,370,1/24/2024,En Proceso,731111,Transferencia Bancaria,Sarmanovo
+740,161,9/20/2024,En Proceso,512361,Tarjeta de Crédito,Kuybyshevo
+741,142,1/7/2024,Cancelado,1048202,Tarjeta de Débito,Zhangduangu
+742,127,2/20/2024,Pendiente,3522241,Efectivo,Goiana
+743,56,2/3/2024,Cancelado,2151921,Efectivo,Panikihan
+744,246,6/18/2024,Pendiente,3751824,Transferencia Bancaria,Siyabuswa
+745,200,4/15/2024,Pendiente,1608352,Tarjeta de Débito,Pryazha
+746,162,7/26/2024,Pendiente,2550262,Tarjeta de Débito,Cleveland
+747,171,2/20/2024,En Proceso,3257702,Transferencia Bancaria,Lichtenburg
+748,179,9/10/2024,Pendiente,2919554,Efectivo,Yunluo
+749,358,10/18/2024,Cancelado,2850408,Efectivo,Onueke
+750,259,5/6/2024,Entregado,3726528,Tarjeta de Débito,Chvalšiny
+751,275,3/4/2024,Pendiente,3350441,Tarjeta de Crédito,Wangbuzhuang
+752,152,7/9/2024,En Proceso,313987,Transferencia Bancaria,Riti
+753,217,3/8/2024,Entregado,1404876,Tarjeta de Crédito,San Remigio
+754,104,4/24/2024,Entregado,3567278,Efectivo,Parramos
+755,302,9/22/2024,Entregado,1158885,Tarjeta de Crédito,Tigre
+756,54,2/20/2024,Cancelado,641473,Tarjeta de Débito,Lévis
+757,493,5/3/2024,En Proceso,1389920,Transferencia Bancaria,Kutapanjang
+758,358,4/22/2024,Cancelado,2566341,Efectivo,Soraya
+759,101,10/28/2024,En Proceso,1123540,Tarjeta de Crédito,Łęknica
+760,170,4/7/2024,Cancelado,1378537,Transferencia Bancaria,Bungabon
+761,179,1/10/2024,Pendiente,1217825,Tarjeta de Crédito,Taremskoye
+762,386,10/6/2024,En Proceso,1971815,Transferencia Bancaria,Limón
+763,219,4/5/2024,En Proceso,3049073,Tarjeta de Débito,Shimeitang
+764,62,10/13/2024,Pendiente,3099243,Tarjeta de Débito,Sakon Nakhon
+765,222,6/11/2024,Cancelado,852536,Transferencia Bancaria,Angoulême
+766,77,10/2/2024,En Proceso,1551643,Tarjeta de Débito,Singajaya
+767,280,2/25/2024,En Proceso,3091032,Tarjeta de Crédito,Granada
+768,400,10/8/2024,En Proceso,3099122,Transferencia Bancaria,Bürenhayrhan
+769,363,4/8/2024,En Proceso,255271,Tarjeta de Crédito,Córdoba
+770,483,7/29/2024,En Proceso,148017,Tarjeta de Débito,Nanniu
+771,470,12/3/2024,Cancelado,380891,Tarjeta de Crédito,Al Abyār
+772,275,8/30/2024,Cancelado,3518106,Tarjeta de Débito,Purísima
+773,13,9/3/2024,Entregado,334405,Transferencia Bancaria,Latung
+774,443,5/14/2024,Cancelado,817837,Tarjeta de Crédito,Mandaue City
+775,202,8/3/2024,Cancelado,2470364,Transferencia Bancaria,Tønsberg
+776,72,6/15/2024,En Proceso,1690761,Tarjeta de Débito,El Mirador
+777,305,4/1/2024,Pendiente,1832994,Tarjeta de Crédito,Xuwei
+778,445,8/14/2024,Pendiente,2868137,Tarjeta de Crédito,Bressuire
+779,300,5/5/2024,En Proceso,1084423,Tarjeta de Débito,Pankrushikha
+780,166,9/13/2024,Entregado,2237941,Tarjeta de Crédito,Kävlinge
+781,295,6/14/2024,Entregado,3145230,Tarjeta de Débito,Limbuhan
+782,56,1/22/2024,Entregado,2611452,Efectivo,Föglö
+783,478,5/1/2024,Entregado,3208659,Transferencia Bancaria,Wates
+784,86,11/9/2024,Cancelado,1452091,Tarjeta de Débito,San Antonio
+785,217,9/19/2024,En Proceso,516358,Efectivo,Svatava
+786,234,4/7/2024,En Proceso,3002955,Tarjeta de Crédito,Vynohradove
+787,6,10/5/2024,Pendiente,2314705,Tarjeta de Débito,San Rafael
+788,466,11/3/2024,Entregado,804035,Tarjeta de Crédito,Outing
+789,171,6/20/2024,Pendiente,3041997,Efectivo,Punta de Bombón
+790,391,8/26/2024,Entregado,3458914,Efectivo,Muhur
+791,368,9/11/2024,En Proceso,433125,Transferencia Bancaria,Jos
+792,247,7/11/2024,Cancelado,1125039,Tarjeta de Crédito,London
+793,299,7/11/2024,Cancelado,428406,Transferencia Bancaria,Dapeng
+794,448,10/23/2024,Pendiente,903595,Efectivo,Leudelange
+795,420,1/2/2024,Entregado,2031560,Efectivo,Pancol
+796,337,9/10/2024,En Proceso,3922647,Tarjeta de Débito,Vallentuna
+797,41,10/1/2024,Cancelado,2766143,Tarjeta de Débito,Aserrío de Gariché
+798,35,10/27/2024,Entregado,2448263,Tarjeta de Débito,Pejibaye
+799,392,2/5/2024,Cancelado,3466585,Transferencia Bancaria,São Torcato
+800,337,11/18/2024,Entregado,1719811,Tarjeta de Crédito,Daping
+801,39,2/5/2024,En Proceso,3102844,Tarjeta de Débito,Sotnikovskoye
+802,292,6/5/2024,Cancelado,1022930,Transferencia Bancaria,Orsk
+803,98,12/30/2024,Cancelado,536816,Efectivo,Chenqing
+804,480,2/15/2024,En Proceso,3646074,Tarjeta de Débito,Socabaya
+805,273,10/18/2024,Entregado,2289623,Transferencia Bancaria,San Alejandro
+806,34,8/30/2024,Pendiente,2839682,Efectivo,Fulu
+807,279,6/19/2024,Cancelado,223192,Tarjeta de Débito,Touba
+808,447,7/17/2024,Entregado,3308963,Tarjeta de Crédito,Al Wardānīn
+809,36,10/6/2024,Cancelado,1929054,Efectivo,Semerak
+810,269,10/5/2024,Entregado,182627,Tarjeta de Crédito,Laprida
+811,175,10/15/2024,Pendiente,1579980,Efectivo,Purísima
+812,289,7/27/2024,Entregado,1375876,Efectivo,Nynäshamn
+813,31,9/7/2024,En Proceso,332419,Efectivo,Puerto Princesa
+814,384,7/2/2024,En Proceso,1509716,Tarjeta de Crédito,Bairro Assunção Piedade
+815,389,5/22/2024,Pendiente,1965364,Tarjeta de Crédito,Caldas da Rainha
+816,56,5/20/2024,En Proceso,1778520,Efectivo,Irosin
+817,414,11/22/2024,Pendiente,3854116,Transferencia Bancaria,Wadung
+818,199,11/8/2024,Pendiente,484709,Transferencia Bancaria,Adygeysk
+819,190,12/30/2024,En Proceso,2944942,Efectivo,Xiejiaya
+820,245,12/29/2024,Cancelado,2176527,Transferencia Bancaria,Emplak
+821,47,5/27/2024,En Proceso,3551417,Tarjeta de Crédito,Limoges
+822,291,1/22/2024,Cancelado,1164961,Tarjeta de Crédito,Araçoiaba da Serra
+823,144,12/29/2024,Pendiente,1302228,Efectivo,Jargalant
+824,483,12/22/2024,Pendiente,3293862,Efectivo,Gunungkendeng
+825,310,2/15/2024,Pendiente,575508,Transferencia Bancaria,Dujuuma
+826,19,8/26/2024,Cancelado,206036,Tarjeta de Débito,Kayasula
+827,409,2/21/2024,Pendiente,3118540,Transferencia Bancaria,Ivry-sur-Seine
+828,26,11/7/2024,Entregado,3444708,Tarjeta de Crédito,Lixin
+829,3,8/18/2024,Entregado,1987062,Transferencia Bancaria,Bugene
+830,408,6/2/2024,Pendiente,2471264,Tarjeta de Débito,Baishi
+831,265,11/25/2024,Entregado,3022161,Tarjeta de Débito,Dourbali
+832,22,9/2/2024,Entregado,977944,Transferencia Bancaria,Sengeti
+833,330,5/12/2024,Entregado,797063,Transferencia Bancaria,Pukkila
+834,73,6/5/2024,Cancelado,2094474,Transferencia Bancaria,Krmelín
+835,319,1/25/2024,Entregado,1489417,Efectivo,Carolina
+836,377,6/17/2024,Entregado,299191,Tarjeta de Crédito,Gengzhuang
+837,97,6/23/2024,Cancelado,812848,Transferencia Bancaria,Sun Kunda
+838,67,2/20/2024,Cancelado,316284,Tarjeta de Débito,A dos Cunhados
+839,178,2/17/2024,Entregado,2491949,Tarjeta de Débito,Tambakmerak
+840,74,1/12/2024,Pendiente,1490089,Tarjeta de Débito,Tallinn
+841,303,10/4/2024,En Proceso,156160,Tarjeta de Crédito,Nusajaya
+842,250,10/1/2024,Entregado,1944186,Tarjeta de Crédito,Kapotnya
+843,275,12/21/2024,Cancelado,213069,Tarjeta de Débito,Managua
+844,181,7/1/2024,Pendiente,3105424,Tarjeta de Débito,Huanfeng
+845,450,7/9/2024,Cancelado,738537,Tarjeta de Crédito,São José do Rio Preto
+846,313,5/29/2024,Cancelado,3442975,Transferencia Bancaria,Laurel
+847,23,11/8/2024,En Proceso,581629,Efectivo,Polowat
+848,272,1/15/2024,Cancelado,2441852,Tarjeta de Crédito,Megáli Khóra
+849,428,12/30/2024,Entregado,3594930,Tarjeta de Débito,Bergen
+850,31,4/19/2024,Entregado,132519,Tarjeta de Débito,Grenoble
+851,319,11/19/2024,Pendiente,1080668,Tarjeta de Crédito,Wolin
+852,1,5/29/2024,En Proceso,872786,Tarjeta de Crédito,Alpedrinha
+853,129,5/18/2024,Entregado,163855,Efectivo,Artur Nogueira
+854,435,2/28/2024,Cancelado,1984019,Efectivo,Inicbulan
+855,78,9/2/2024,En Proceso,1511828,Tarjeta de Débito,Zolochiv
+856,162,9/21/2024,Cancelado,3440464,Tarjeta de Crédito,Fangcun
+857,103,9/13/2024,Cancelado,3055025,Efectivo,Setro
+858,1,10/14/2024,En Proceso,2397929,Tarjeta de Débito,Antrukan
+859,118,4/28/2024,Pendiente,467556,Tarjeta de Débito,Zhongdong
+860,415,8/7/2024,En Proceso,2438758,Transferencia Bancaria,Zhenzhushan
+861,492,2/15/2024,Entregado,604529,Tarjeta de Débito,Karanganyar
+862,137,7/15/2024,Entregado,583919,Tarjeta de Débito,Yāsūf
+863,351,7/31/2024,En Proceso,2067025,Tarjeta de Crédito,Ribeirão da Ilha
+864,187,6/15/2024,Cancelado,2244555,Efectivo,Motala
+865,24,12/26/2024,En Proceso,335212,Transferencia Bancaria,Matviyivka
+866,15,11/26/2024,Entregado,1560582,Tarjeta de Débito,Xiaxi
+867,240,10/23/2024,Entregado,3247021,Transferencia Bancaria,Butwāl
+868,177,11/18/2024,Cancelado,318457,Transferencia Bancaria,Horgo
+869,194,11/25/2024,En Proceso,2980910,Efectivo,Oesao
+870,418,2/15/2024,Entregado,399178,Transferencia Bancaria,Gununganyartambak Tengah
+871,378,5/1/2024,Pendiente,1774283,Tarjeta de Débito,Nova Viçosa
+872,65,11/22/2024,En Proceso,3342660,Efectivo,Whitegate
+873,386,9/4/2024,Pendiente,825615,Tarjeta de Débito,Vales
+874,9,2/7/2024,Cancelado,2046437,Transferencia Bancaria,Amashca
+875,60,12/6/2024,En Proceso,137246,Transferencia Bancaria,Mizoch
+876,155,5/28/2024,Cancelado,770197,Efectivo,Bellavista
+877,312,3/2/2024,Entregado,1889701,Efectivo,Lysá nad Labem
+878,37,5/7/2024,Pendiente,3616299,Transferencia Bancaria,Kopayhorod
+879,244,3/10/2024,En Proceso,3898814,Tarjeta de Débito,Banjar Sengguan
+880,498,8/8/2024,Cancelado,3330540,Transferencia Bancaria,Roermond
+881,361,3/28/2024,Entregado,2356618,Transferencia Bancaria,Quatro Barras
+882,115,11/7/2024,Entregado,3003885,Efectivo,Chimanimani
+883,276,9/28/2024,Entregado,2524923,Tarjeta de Crédito,Bécancour
+884,183,12/31/2024,Cancelado,3860617,Tarjeta de Crédito,Ochojno
+885,12,5/25/2024,En Proceso,910745,Efectivo,Psará
+886,57,2/29/2024,Entregado,1587908,Tarjeta de Débito,Ivanovskoye
+887,195,4/19/2024,Cancelado,1059908,Transferencia Bancaria,Angadanan
+888,110,10/3/2024,En Proceso,383387,Efectivo,Vostochnoe Degunino
+889,127,10/23/2024,En Proceso,2091666,Tarjeta de Débito,Athlone
+890,245,4/5/2024,En Proceso,575981,Tarjeta de Crédito,Girón
+891,57,10/1/2024,Entregado,1553607,Transferencia Bancaria,Graksop
+892,30,2/26/2024,En Proceso,2333310,Tarjeta de Débito,Bukowina Tatrzańska
+893,443,2/15/2024,En Proceso,2177069,Tarjeta de Crédito,Pinhal de Frades
+894,287,6/16/2024,Entregado,2694677,Tarjeta de Crédito,Seto
+895,321,12/19/2024,Cancelado,326457,Tarjeta de Débito,Wenfu
+896,66,8/2/2024,Entregado,3036692,Tarjeta de Débito,Babakan
+897,147,7/15/2024,Pendiente,1406989,Transferencia Bancaria,Sankoutang
+898,39,8/31/2024,Pendiente,806363,Tarjeta de Crédito,Barra Cheia
+899,205,5/20/2024,Pendiente,1906818,Tarjeta de Crédito,Dasuk
+900,427,11/21/2024,Cancelado,585745,Tarjeta de Crédito,Turbiv
+901,300,12/15/2024,Cancelado,2340904,Efectivo,Cilangkap
+902,488,11/29/2024,Cancelado,3804526,Efectivo,Sukamantri Satu
+903,462,4/12/2024,Cancelado,2716731,Transferencia Bancaria,Amherstburg
+904,13,12/25/2024,Pendiente,3956352,Efectivo,Kuala Terengganu
+905,49,6/3/2024,En Proceso,1581410,Efectivo,Kórnik
+906,330,11/21/2024,Entregado,1457729,Tarjeta de Débito,Dongchuan
+907,333,6/2/2024,Entregado,939443,Tarjeta de Crédito,Corpus
+908,166,3/27/2024,Pendiente,1557934,Transferencia Bancaria,Alua
+909,176,3/27/2024,Cancelado,2180161,Tarjeta de Crédito,Podgorenskiy
+910,98,3/23/2024,Cancelado,671008,Efectivo,Wadusari
+911,154,7/13/2024,Pendiente,3047273,Tarjeta de Débito,Gjilan
+912,486,5/10/2024,Cancelado,834105,Efectivo,Gaolong
+913,147,4/22/2024,Cancelado,1964926,Efectivo,Chandler
+914,371,1/8/2024,En Proceso,2082383,Tarjeta de Crédito,Salt Lake City
+915,4,8/16/2024,En Proceso,2550567,Tarjeta de Crédito,Macau
+916,496,11/23/2024,Entregado,498486,Efectivo,Otok
+917,354,12/15/2024,Pendiente,1972559,Transferencia Bancaria,Point Pedro
+918,365,1/24/2024,Entregado,3004069,Efectivo,Buenavista
+919,409,1/2/2024,En Proceso,3496511,Efectivo,Firmat
+920,106,10/13/2024,Entregado,3516935,Tarjeta de Débito,Kista
+921,179,2/3/2024,Cancelado,2586555,Transferencia Bancaria,Valladolid
+922,153,9/15/2024,Cancelado,3804537,Efectivo,Monte da Chaminé
+923,465,3/1/2024,En Proceso,3850461,Efectivo,Aripuanã
+924,499,6/15/2024,En Proceso,1784547,Tarjeta de Crédito,Khōshāmand
+925,177,6/10/2024,En Proceso,2812025,Efectivo,Agraharam
+926,257,2/16/2024,Entregado,3043095,Transferencia Bancaria,Cipari Satu
+927,346,11/29/2024,Entregado,1640722,Efectivo,Povedniki
+928,341,1/29/2024,Pendiente,2508518,Tarjeta de Crédito,Wolong
+929,407,3/27/2024,Pendiente,3390131,Tarjeta de Crédito,Mshinskaya
+930,472,10/16/2024,Entregado,3177559,Transferencia Bancaria,Stockholm
+931,365,5/28/2024,Cancelado,902109,Transferencia Bancaria,Iparia
+932,285,2/24/2024,Pendiente,2827956,Efectivo,Guinabsan
+933,492,2/11/2024,Entregado,1944085,Efectivo,Qamdo
+934,329,2/18/2024,Pendiente,1223926,Transferencia Bancaria,Al Bahlūlīyah
+935,180,12/10/2024,Cancelado,3514502,Efectivo,Baguio
+936,215,6/18/2024,Pendiente,332490,Tarjeta de Débito,Zīrakī
+937,394,6/1/2024,Pendiente,919142,Tarjeta de Débito,Stockholm
+938,16,7/12/2024,En Proceso,841910,Tarjeta de Crédito,Zaklików
+939,211,2/23/2024,Cancelado,2111932,Tarjeta de Débito,Shuvakish
+940,220,1/20/2024,En Proceso,915421,Tarjeta de Débito,Guaíra
+941,148,5/15/2024,Entregado,1522245,Tarjeta de Débito,Perivóli
+942,178,12/29/2024,Cancelado,2691861,Efectivo,Agen
+943,493,6/18/2024,Entregado,602725,Transferencia Bancaria,Wawrzeńczyce
+944,467,7/25/2024,Entregado,1289580,Efectivo,Kalenderovci Donji
+945,370,12/25/2024,Entregado,1321321,Tarjeta de Crédito,Bezons
+946,399,1/9/2024,Cancelado,1201708,Efectivo,Gostyń
+947,466,9/25/2024,Pendiente,3674219,Tarjeta de Débito,San José de Bocay
+948,269,5/24/2024,En Proceso,2872493,Efectivo,Zhuangbian
+949,337,8/3/2024,Entregado,1891596,Transferencia Bancaria,Wrocław
+950,267,11/21/2024,Entregado,3223273,Tarjeta de Crédito,Ambato
+951,115,1/7/2024,Entregado,2354308,Transferencia Bancaria,Junshan
+952,405,9/8/2024,Cancelado,1653481,Efectivo,Tagkawayan Sabang
+953,129,6/3/2024,Cancelado,791304,Transferencia Bancaria,Hässelby
+954,373,10/29/2024,Entregado,3820477,Tarjeta de Crédito,Vale da Bajouca
+955,246,7/16/2024,En Proceso,758044,Efectivo,Nanbao
+956,337,4/26/2024,Cancelado,2783162,Tarjeta de Crédito,Kaset Sombun
+957,460,11/5/2024,Entregado,3427737,Transferencia Bancaria,Niujiang
+958,14,11/27/2024,En Proceso,780309,Efectivo,Dana
+959,151,5/5/2024,Cancelado,195017,Tarjeta de Crédito,Banbalah
+960,253,3/6/2024,Entregado,466250,Tarjeta de Débito,Liudu
+961,386,3/30/2024,En Proceso,103778,Transferencia Bancaria,Bailang
+962,379,12/22/2024,En Proceso,3754099,Efectivo,Qingyang
+963,205,5/7/2024,Entregado,2062712,Tarjeta de Crédito,Coaticook
+964,181,1/25/2024,Pendiente,2930721,Tarjeta de Crédito,Paris La Défense
+965,35,7/12/2024,Cancelado,2111655,Efectivo,Telč
+966,276,4/26/2024,En Proceso,2716623,Efectivo,Masaguisi
+967,291,8/12/2024,Pendiente,3763020,Tarjeta de Débito,Yurkivka
+968,229,9/21/2024,En Proceso,2052842,Tarjeta de Crédito,Koppies
+969,375,8/4/2024,Pendiente,3725057,Transferencia Bancaria,Bachaquero
+970,210,5/4/2024,Cancelado,3544903,Transferencia Bancaria,Bŭka
+971,257,8/26/2024,En Proceso,714735,Tarjeta de Débito,Karangtanjung
+972,487,2/28/2024,En Proceso,3910529,Transferencia Bancaria,Tangerang
+973,286,6/19/2024,Pendiente,226911,Efectivo,Baykonyr
+974,122,3/24/2024,En Proceso,3344976,Tarjeta de Débito,Santa Cecília
+975,356,5/27/2024,Cancelado,927819,Transferencia Bancaria,Tây Đằng
+976,46,10/20/2024,Cancelado,839842,Tarjeta de Débito,Ngeni
+977,251,11/17/2024,Cancelado,3753331,Tarjeta de Crédito,Bouças
+978,25,12/26/2024,Cancelado,980943,Transferencia Bancaria,Tchintabaraden
+979,69,5/18/2024,Entregado,2777294,Transferencia Bancaria,Chunjing
+980,130,9/2/2024,Entregado,2842407,Efectivo,Pawitan
+981,166,8/4/2024,Cancelado,3365326,Tarjeta de Crédito,Hejiang
+982,303,4/16/2024,Cancelado,1237543,Transferencia Bancaria,Gulong
+983,482,6/10/2024,Pendiente,1926784,Efectivo,Górki
+984,376,11/8/2024,En Proceso,173118,Tarjeta de Crédito,Nagareyama
+985,14,2/7/2024,Pendiente,3367084,Tarjeta de Crédito,Sandefjord
+986,102,1/31/2024,Entregado,1625929,Transferencia Bancaria,Saint Petersburg
+987,487,3/9/2024,En Proceso,755351,Transferencia Bancaria,Kiryū
+988,58,3/15/2024,Cancelado,1712812,Tarjeta de Crédito,La Plata
+989,82,9/23/2024,Cancelado,2520628,Tarjeta de Débito,Sarrat
+990,158,10/6/2024,Pendiente,2971319,Tarjeta de Crédito,Castelo
+991,10,8/6/2024,Cancelado,2825108,Transferencia Bancaria,Bromma
+992,421,2/18/2024,Entregado,2100117,Efectivo,Yeghegnut
+993,189,1/26/2024,Entregado,849398,Efectivo,Duwe
+994,186,4/4/2024,En Proceso,3858287,Transferencia Bancaria,Lubango
+995,219,5/16/2024,En Proceso,3526880,Tarjeta de Débito,Montecillo
+996,295,11/1/2024,Cancelado,2517595,Transferencia Bancaria,Luozhuang
+997,75,7/31/2024,En Proceso,3963420,Tarjeta de Débito,Itapaci
+998,417,11/3/2024,Pendiente,1941306,Tarjeta de Crédito,Saint-Flour
+999,33,10/10/2024,En Proceso,3584626,Tarjeta de Débito,Adelaide Mail Centre
+1000,296,7/22/2024,Cancelado,1659636,Efectivo,Longhuashan
