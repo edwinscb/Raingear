@@ -4,3 +4,6 @@ scikit-learn
 sqlalchemy
 psycopg2-binary
 requests
+SQLAlchemy 
+psycopg2-binary
+dotenv
