@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from urllib.parse import quote_plus
 import os
 
-# --- Cargar las variables de entorno desde .env ---
 load_dotenv()
 
 usuario = os.getenv("DB_USER")
